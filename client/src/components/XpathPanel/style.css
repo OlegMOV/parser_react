@@ -1,0 +1,18 @@
+#fieldxpath {
+  margin-top: 25px;
+  line-height: normal;
+}
+
+#fieldxpath i.material-icons {
+  color: darkviolet !important;
+  line-height: unset;
+}
+
+#fieldxpath .cleaner {
+  position: absolute;
+  top: 20px;
+  right: 10px;
+  line-height: normal;
+  cursor: pointer;
+}
+/*# sourceMappingURL=style.css.map */

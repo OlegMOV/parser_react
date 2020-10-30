@@ -1,0 +1,11 @@
+.allinfo {
+    margin-top: 20px;
+    line-height: 45px;
+    .switch {
+        margin-top: 5px;
+    }
+    .select-wrapper~label {
+        position: relative;
+        top: 20px !important;
+    }
+}

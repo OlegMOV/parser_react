@@ -1,0 +1,19 @@
+input {
+    border-bottom: 1px solid purple !important;
+}
+
+#dateTest {
+    text-align: center;
+}
+
+.row {
+    margin-bottom: 0px;
+}
+
+.input-field .active {
+    color: darkviolet !important;
+}
+
+#firstline {
+    margin-top: 25px;
+}

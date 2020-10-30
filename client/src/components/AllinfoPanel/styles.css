@@ -1,0 +1,14 @@
+.allinfo {
+  margin-top: 20px;
+  line-height: 45px;
+}
+
+.allinfo .switch {
+  margin-top: 5px;
+}
+
+.allinfo .select-wrapper ~ label {
+  position: relative;
+  top: 20px !important;
+}
+/*# sourceMappingURL=styles.css.map */
