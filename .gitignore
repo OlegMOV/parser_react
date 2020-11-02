@@ -1,2 +1,4 @@
 node_modules
 python_scripts
+*.log
+routes/temp
