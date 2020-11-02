@@ -2,7 +2,13 @@ const express = require('express')
 const config = require('config')
 const app = express()
 
-app.use('api/parser', require('./routes/parser.routes'))
+app.use('/api/parser', require('./routes/parser.routes'))
+app.get('/', (req, res) => {
+    console.log('ffff')
+})
+app.get('/api/parser', (req, res) => {
+    console.log('gggggg')
+})
 
 const PORT = config.get('port') || 5000
 
